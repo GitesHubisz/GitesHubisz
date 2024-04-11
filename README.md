@@ -15,6 +15,4 @@ I'm using:
 <img src=https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg title="A2 level (unofficial)" width="40" height="40"/>&nbsp;
 
 ### Coding Language
-- HTML
-- CSS
-- PHP
+- u know what, none, zero
