@@ -6,7 +6,6 @@ I'm using:
 - VScodeium
 - Mumble
 - Github
-- Reaper
 - Discord (rarely)
 
 ### Speaking Language
