@@ -4,9 +4,8 @@
 ### Software 
 I'm using: 
 - VScodeium
-- Mumble
 - Github
-- Discord (rarely)
+
 
 ### Speaking Language
 <img src=https://github.com/lipis/flag-icons/blob/main/flags/4x3/pl.svg title="Native" alt="I'm polish, so I'm native speaker" width="40" height="40"/>&nbsp;
